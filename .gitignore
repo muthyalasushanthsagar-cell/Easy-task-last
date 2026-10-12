@@ -3,7 +3,7 @@
 .env.*
 !.env.example
 backend/.env
-
+frontend/node_modules/
 # Java build files
 backend/target/
 
