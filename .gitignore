@@ -1,0 +1,12 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Java build files
+backend/target/
+
+# Frontend generated files
+node_modules/
+dist/

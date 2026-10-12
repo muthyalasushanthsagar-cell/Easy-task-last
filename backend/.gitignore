@@ -1,0 +1,14 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Java build output
+backend/target/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+backend/target/
