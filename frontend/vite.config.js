@@ -9,7 +9,7 @@ export default defineConfig({
     open: false,
     proxy: {
       '/api': {
-        target: 'http://localhost:8088',
+        target: "https://easy-task-last.onrender.com/api",
         changeOrigin: true
       }
     }
